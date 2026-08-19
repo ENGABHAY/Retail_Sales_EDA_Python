@@ -1,5 +1,6 @@
 # Retail Data Analytics Dashboard 📊
 
+
 A comprehensive **Retail Data Analytics project** designed to uncover **sales drivers, profitability patterns, and operational efficiencies** for a global retail business. Using Python-based analytics and visualization tools, this project transforms transactional data into **actionable business insights** that can guide strategic decision-making.
 
 ---
