@@ -146,6 +146,6 @@ Strengthen presence in **Mexico and Canada** through localized campaigns and tar
 
 # 📌 Conclusion
 
-This analysis demonstrates that **product mix, discount policies, geographic demand, and shipping strategies** are key drivers of retail profitability. By focusing on **high-margin electronics, optimized discount strategies, and premium shipping options**, the business can significantly enhance overall revenue and profit performance.....
+This analysis demonstrates that **product mix, discount policies, geographic demand, and shipping strategies** are key drivers of retail profitability. By focusing on **high-margin electronics, optimized discount strategies, and premium shipping options**, the business can significantly enhance overall revenue and profit performance.
 
 ---
